@@ -62,5 +62,5 @@ Com base nos dados fake:
 ## 👨‍💻 Autor
 Feito por [Silas Barbosa da Silva]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/feed/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-barbosa-1885ab3a0/)
 s
